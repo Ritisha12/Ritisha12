@@ -6,8 +6,9 @@
 
 ### my name is **ritisha perumalla**! 
 
-- currently a second year student in software engineering @ mcmaster university.
+- currently a 3rd year student in software engineering @ mcmaster university.
 - enjoy turning ideas into practical, well-built projects.
+- prev @Rbc,Safe Money,Toast
 - happy to connect, reach me on LinkedIn www.linkedin.com/in/ritisha-perumalla.
 
 ## skills
